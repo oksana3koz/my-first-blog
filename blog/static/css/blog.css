@@ -1,6 +1,8 @@
 h1 a {color: #C390D4;
       font-family: 'Lobster';}
-body {padding-left: 25px;}
+body {padding-left: 25px;
+     background: url(../image/1.jpg) no-repeat center center fixed;
+     background-size: cover;}
 
 .page-header {
     background-color: #601878;
